@@ -2,8 +2,7 @@ I'm Sanya and I'm currently a freshman at the University of Pennsylvania studyin
 
 #### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning: JavaScript
 - 📫 How to reach me: shettyss@seas.upenn.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Interests: playing piano, singing, hanging out with friends
