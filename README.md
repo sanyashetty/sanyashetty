@@ -1,4 +1,4 @@
-I'm Sanya and I'm currently a freshman at the University of Pennsylvania studying Computer Science. I'm primarily interested in web development, but I'm hoping to learn more about machine learning and AI as well.
+I'm Sanya and I'm currently a sophomore at the University of Pennsylvania studying Computer Science. I'm primarily interested in web development, but I'm hoping to learn more about machine learning and AI as well.
 
 #### About me
 
