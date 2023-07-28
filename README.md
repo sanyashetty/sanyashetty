@@ -1,4 +1,6 @@
-I'm Sanya and I'm currently a junior at the University of Pennsylvania studying Computer Science. I'm primarily interested in full-stack application development, but I'm hoping to learn more about machine learning and AI as well.
+## Hi, I'm Sanya!
+
+I'm currently a junior at the University of Pennsylvania studying Computer Science. I'm primarily interested in full-stack application development, but I'm hoping to learn more about machine learning and AI as well.
 
 #### About me
 
