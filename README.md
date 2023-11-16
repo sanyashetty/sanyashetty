@@ -4,7 +4,7 @@ I'm currently a junior at the University of Pennsylvania studying Computer Scien
 
 #### About me
 
-- 🌱 I’m currently learning: React.js
+- 🌱 I’m currently learning: Flask
 - 📫 How to reach me: shettyss@seas.upenn.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Interests: playing piano, singing, hanging out with friends
