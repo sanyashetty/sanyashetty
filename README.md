@@ -1,10 +1,9 @@
-## Hi, I'm Sanya!
+## Sanya Shetty
 
-I'm currently a junior at the University of Pennsylvania studying Computer Science. I'm primarily interested in full-stack application development, but I'm hoping to learn more about machine learning and AI as well.
+I work as a software engineer in the fintech space. My interests lie in full-stack development, but I'm currently focusing on frontend development and AI applications.
 
 #### About me
 
-- 🌱 I’m currently learning: Flask
-- 📫 How to reach me: shettyss@seas.upenn.edu
+- 🌱 I’m currently learning: AngularJS
 - 😄 Pronouns: she/her/hers
 - ⚡ Interests: playing piano, singing, hanging out with friends
